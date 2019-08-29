@@ -1,5 +1,7 @@
 # smart-contract-xplore
 
+Simple project built with Vue using Reactive Search
+
 ## Project setup
 ```
 npm install
